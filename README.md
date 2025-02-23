@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jannik!
 
-<!--
-**Jannik-Bruehl/Jannik-Bruehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Web Developer & Freelancer**  
+I have a strong passion for **web development** and enjoy building modern, responsive, and functional websites. What started as a hobby has turned into a skillset I now apply as a freelancer in the digital world.  
 
-Here are some ideas to get you started:
+🔹 **Tech Stack:**  
+- **Frontend:** HTML, CSS, JavaScript (Exploring React)  
+- **Backend:** Node.js, Express (Expanding my skills)  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **What I Do:**  
+- Developing custom websites & applications  
+- Freelancing in web development & digital services  
+- Constantly learning and improving my skills  
+
+📫 **Get in Touch:**  
+- 🔗 [Upwork Profile](#) *(Falls du dein Upwork verlinken möchtest)*  
+- 📧 Email: your-email@example.com  
+
+Let's connect and build something awesome! 🚀
