@@ -15,7 +15,7 @@ I have a strong passion for **web development** and enjoy building modern, respo
 - Constantly learning and improving my skills  
 
 📫 **Get in Touch:**  
-- 🔗 [Upwork Profile](#) *(Falls du dein Upwork verlinken möchtest)*  
-- 📧 Email: your-email@example.com  
+- 🔗 [Upwork Profile](#) *(https://www.upwork.com/freelancers/~015aa1135747d8b5a5?mp_source=share)*  
+- 📧 Email: jannikbruehl@outlook.com 
 
 Let's connect and build something awesome! 🚀
