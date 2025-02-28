@@ -1,20 +1,16 @@
-# 👋 Hi, I'm Jannik!
+**Passionate Web Developer - Building Websites with ❤ & code**
 
-🚀 **Full-Stack Web Developer & Freelancer**  
-I have a strong passion for **web development** and enjoy building modern, responsive, and functional websites. What started as a hobby has turned into a skillset I now apply as a freelancer in the digital world.  
+**Greetings! I am Jannik, an ambitious full stack web developer.** 
 
-🔹 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript (Exploring React)  
-- **Backend:** Node.js, Express (Expanding my skills)  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+**My main skills:** 
 
-📌 **What I Do:**  
-- Developing custom websites & applications  
-- Freelancing in web development & digital services  
-- Constantly learning and improving my skills  
+**-	Web Development: I build full customized websites for businesses and individuals by using 
+       HTML, CSS and JavaScript**
 
-📫 **Get in Touch:**  
-- 🔗 [Upwork Profile](#) *(https://www.upwork.com/freelancers/~015aa1135747d8b5a5?mp_source=share)*  
+**-	Mobile Apps: I develop custom mobile applications for IOS and Android**
 
-Let's connect and build something awesome! 🚀
+**-	Debugging: If your owned software has any bugs I will find and fix them for you**
+
+**-	Performance optimization: If your website is slow, i will analyze and optimize it**
+
+**Feel free to contact me so we can build something cool together😊👌 ** 
