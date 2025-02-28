@@ -13,4 +13,4 @@
 
 **-	Performance optimization: If your website is slow, i will analyze and optimize it**
 
-**Feel free to contact me so we can build something cool together😊👌 ** 
+**Feel free to contact me so we can build something cool together😊👌** 
