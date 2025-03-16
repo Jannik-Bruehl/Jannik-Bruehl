@@ -7,7 +7,7 @@
 **-	Web Development: I build full customized websites for businesses and individuals by using 
        HTML, CSS and JavaScript**
 
-**-	Mobile Apps: I develop custom mobile applications for IOS and Android**
+**-	Mobile Apps: I develop custom mobile applications for IOS**
 
 **-	Debugging: If your owned software has any bugs I will find and fix them for you**
 
