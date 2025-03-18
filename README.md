@@ -9,8 +9,6 @@
 
 **-	Mobile Apps: I develop custom mobile applications for IOS**
 
-**-	Debugging: If your owned software has any bugs I will find and fix them for you**
-
 **-	Performance optimization: If your website is slow, i will analyze and optimize it**
 
 **Feel free to contact me so we can build something cool together😊👌** 
